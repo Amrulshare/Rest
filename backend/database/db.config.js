@@ -10,7 +10,9 @@ const db = new LowSync(adaptor)
 
 // Set default data
 db.read();
-db.data ||= { users: [] };
+db.data ||= { users: [
+    
+] };
 
 
 export default db;
