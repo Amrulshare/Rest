@@ -1,2 +1,7 @@
 # Rest
-<code>$ npm install</code>
+# The largest heading
+```
+cd backend
+npm install
+npm run dev
+```
