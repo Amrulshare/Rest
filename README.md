@@ -1,3 +1,2 @@
 # Rest
-cd backend
-npm install
+<code>$ npm install</code>
