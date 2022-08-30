@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": "8d0rgh2i8l7cvi1ks",
+      "datetime": 1661663426427,
+      "name": "Kurtis Weissnat",
+      "address": {
+        "loaction": "Wisokyburgh",
+        "street": "Skiles Walks",
+        "zipcode": "33263"
+      },
+      "phone": "(254)954-1289"
+    }
+  ]
+}
